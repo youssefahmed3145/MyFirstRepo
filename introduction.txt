@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+My name is Youssef, a 17-year-old student passionate about Computer Science and high-performance hardware. I am currently learning Git and GitHub through the ALX Pathway program to build my skills in software engineering and professional collaboration.
+
+I enjoy solving logic problems, working with my team on innovative projects, and constantly improving my technical knowledge. This repository is my first step into the world of open-source development.
